@@ -1,0 +1,7 @@
+# Local builds and diagnostic output
+*.exe
+!TgDrop.exe
+*.pdb
+diagnostics.txt
+self-test-result.txt
+*.log
